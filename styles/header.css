@@ -134,8 +134,12 @@
 
 .my-channel-icon{
     height: 55px;
-    border-radius:16px ;
+    border-radius:30px ;
     margin-right: 20px;
     cursor: pointer;
+    border: 2px;
+    border-color: black;
+    border-width:3px ;
+    border-style: solid;
 }
 
