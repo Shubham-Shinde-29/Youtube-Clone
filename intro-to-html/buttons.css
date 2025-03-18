@@ -1,0 +1,47 @@
+
+.subscribe-button{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 50px; 
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-right: 10px;
+    
+    
+
+}
+.subscribe-button:hover{
+    background-color: rgb(21, 216, 109);
+    color: rgb(255, 255, 255);
+
+}
+
+
+.join-button{
+    background-color: rgb(31, 196, 31);
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    color:rgb(218, 199, 199) ;
+    height: 60px;
+    width: 124px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+    box-shadow:7px 10px 5px rgba(233, 110, 10, 0.6) ;
+
+
+}
+
+.request-button{
+    background-color: black;
+    height: 40px;
+    width: 120px;
+    border: none;
+    font-weight: bold;
+
+}
+
